@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "backend for warp",
   "main": "server.js",
-  "type": "module",
   "scripts": {
     "dev": "nodemon server.js"
   },
